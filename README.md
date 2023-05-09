@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Stinky-Tofu/Stinky-Tofu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stinky-Tofu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinky-Tofu&include_all_commits=true&show_icons=true&theme=flag-india&count_private=true&show_owner=true)
+![Stinky-Tofu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinky-Tofu&include_all_commits=true&show_icons=true&theme=flag-india&count_private=true&show_owner=true&hide=contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinky-Tofu&theme=flag-india&langs_count=8&show_icons=true&&layout=compact)
