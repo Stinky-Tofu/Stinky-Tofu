@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stinky-Tofu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinky-Tofu&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinky-Tofu&layout=compact)](https://github.com/Stinky-Tofu/github-readme-stats)
+![Stinky-Tofu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stinky-Tofu&include_all_commits=true&show_icons=true&theme=flag-india&count_private=true&show_owner=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stinky-Tofu&theme=flag-india&langs_count=8&show_icons=true&&layout=compact)
